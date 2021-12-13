@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":11803}, "model": "wands/guardian_wand"},
+    {"predicate": {"custom_model_data":11804}, "model": "wands/shulker_wand"},
+    {"predicate": {"custom_model_data":11805}, "model": "wands/dragon_wand"},
+    {"predicate": {"custom_model_data":11806}, "model": "wands/evoker_wand"},
+    {"predicate": {"custom_model_data":11807}, "model": "wands/bat_wand"},
+    {"predicate": {"custom_model_data":11809}, "model": "wands/fox_wand"}
+  ]
+}
