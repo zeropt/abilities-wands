@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potion_overlay",
+    "layer1": "minecraft:item/splash_potion"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":11810}, "model": "wands/spider_wand"},
+    {"predicate": {"custom_model_data":11910}, "model": "wands/spider_thrown"}
+  ]
+}

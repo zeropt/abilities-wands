@@ -10,6 +10,7 @@
     {"predicate": {"custom_model_data":11806}, "model": "wands/evoker_wand"},
     {"predicate": {"custom_model_data":11807}, "model": "wands/bat_wand"},
     {"predicate": {"custom_model_data":11809}, "model": "wands/fox_wand"},
+    {"predicate": {"custom_model_data":11811}, "model": "wands/axolotl_wand"},
     {"predicate": {"custom_model_data":11905}, "model": "wands/dragon_wand"}
   ]
 }
